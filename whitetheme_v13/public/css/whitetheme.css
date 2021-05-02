@@ -51,6 +51,12 @@ input[type=checkbox]:checked:before {
 background: #ff003c;
 }
 
+:root {
+    --gray-800: #1b1b4f !important;
+    --yellow-500: #ff003c !important;
+    --yellow-500: #ff003c !important;
+}
+
 [data-theme="dark"] {
     --primary-color : #ff003c;
     --bg-color: #232366;
