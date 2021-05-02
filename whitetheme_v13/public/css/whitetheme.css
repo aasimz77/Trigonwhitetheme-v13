@@ -65,10 +65,27 @@ background: #ff003c;
     --margin-lg : 15px;
     --text-bold: 600;
     --scroll-bg: #33338b;
-    --scroll-color: #ff003c;
-    --gray-700: #20205e;
-    --gray-800: #1b1b4f;
-    --yellow-500: #ff003c;
+    --scroll-color: #4a4ab1;
+	--kanban-column-bg: #1f1f56;
+	--kanban-card-bg: #1b1b4b;
+	--kanban-new-card-bg: #1f1f56;
+	--kanban-new-card-hover-bg: #1b1b4b;
+	--fg-color: #1b1b4b;
+	--navbar-bg: #1b1b4b;
+	--fg-hover-color: #1f1f56;
+	--card-bg: #1b1b4b;
+	--control-bg: #1f1f56;
+	--control-bg-on-gray: #1b1b4b;
+	--awesomplete-hover-bg: #1f1f56;
+	--modal-bg: #1f1f56;
+	--bg-light-gray: #1f1f56;
+	--sidebar-select-color: #1b1b4b;
+	--scrollbar-track-color: #1f1f56;
+	--scrollbar-track-color: #1f1f56;
+	--skeleton-bg: #1b1b4b;
+	--yellow-avatar-bg: #ff003c;
+	--bg-yellow: #ff003c;
+
 }
 
 [data-theme="light"] {
@@ -86,5 +103,6 @@ background: #ff003c;
     --awesomplete-hover-bg: #d4dcea;
     --scroll-bg: #eef1f5;
     --scroll-color: #d9dfe6;
-    --yellow-500: #ff003c;
+    --yellow-avatar-bg: #ff003c;
+	--bg-yellow: #ff003c;
 }
