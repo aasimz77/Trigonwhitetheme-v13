@@ -60,6 +60,9 @@ background: #ff003c;
     --text-bold: 600;
     --scroll-bg: #33338b;
     --scroll-color: #ff003c;
+    --gray-700: #20205e !important;
+    --gray-800: #1b1b4f !important;
+    --yellow-500: #ff003c !important;
 }
 
 [data-theme="light"] {
@@ -77,4 +80,5 @@ background: #ff003c;
     --awesomplete-hover-bg: #d4dcea;
     --scroll-bg: #eef1f5;
     --scroll-color: #d9dfe6;
+    --yellow-500: #ff003c !important;
 }
