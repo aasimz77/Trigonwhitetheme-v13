@@ -6,8 +6,8 @@ Custom Theme for Frappe/ERPNext v13
 
 To install this theme,
 
-1. bench get-app https://github.com/hashirluv/whitetheme-v13.git
-2. bench --site (sitename) install-app whitetheme_v13
+1. bench get-app https://github.com/aasimz77/Trigonwhitetheme-v13.git
+2. bench --site sys.trigonsa.net install-app whitetheme_v13
 3. bench clear-cache
 
 To uninstall this theme
